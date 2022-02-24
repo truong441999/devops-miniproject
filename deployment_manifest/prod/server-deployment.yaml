@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: letiendat152/devops-server:139
+          image: letiendat152/devops-server:154
           ports:
             - containerPort: 4000
           env:

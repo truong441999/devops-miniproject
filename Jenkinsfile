@@ -9,6 +9,7 @@ pipeline {
     SOURCE_BRANCH = "${ghprbSourceBranch}"
   }
   
+  
   stages{ 
     stage('Clone repository') {
         steps{

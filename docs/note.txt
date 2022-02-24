@@ -76,6 +76,7 @@ Refs:
   --create-namespace \
   --version v1.6.1
 
+
 4. Create issuer and certificate
 - Check: kubectl get certificates
 - Check: kubectl describe certificates
